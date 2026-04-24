@@ -12,7 +12,7 @@ This repository includes:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - Python  
 - NumPy  
